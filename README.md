@@ -44,5 +44,7 @@ docker logs "CONTAINER ID"
 # CREDITS 
 
 [DOCKERHUB](https://hub.docker.com/r/eehgold/docker-ogame-tbot)
+
 [TBOT GITHUB](https://github.com/ogame-tbot/TBot)
+
 [TBOT WIKI](https://github.com/ogame-tbot/TBot/wiki/Configuration-guide)
