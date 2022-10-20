@@ -19,6 +19,9 @@ For more options, see : https://github.com/ogame-tbot/TBot/wiki/Configuration-gu
 
 ## LAUNCH
 
+> :warning: **The file "settings.json" must be in the same working directory as "run.bash".**
+> :warning: Otherwise you will have to change the path of the file in the following command
+
 Simply run 
 ```console
 docker run -d -it -v "$(pwd)"/settings.json:/app/publish/linux64/settings.json eehgold/docker-ogame-tbot:latest
